@@ -1,10 +1,12 @@
-
+```
 ╔═══════════════════════════════════════════════════╗
 ║  FUTURES PROP FIRMS 2026                        ║
 ║  Complete guide to prop firms that offer         ║
 ║  futures trading. Apex, FTMO Futures,            ║
 ║  My Funded Futures reviewed.                     ║
 ╚═══════════════════════════════════════════════════╝
+```
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Futures_Prop_Firms-2026-22c55e?style=for-the-badge" alt="Futures Prop Firms 2026">
